@@ -2,8 +2,9 @@
 
 ## MBA Data Science Flai Famesp
 
-Projeto de Data Analytics: Análise do Balanço de Energia entre Subssistemas do Sistema Interligado Nacional - SIN
-Base de Dados (Fonte: Dados Abertos ONS):
+*Projeto de Data Analytics: Análise do Balanço de Energia entre Subssistemas do Sistema Interligado Nacional - SIN*
+
+### Base de Dados (Fonte: Dados Abertos ONS):
 - Base 1: Balanço Subsistemas (2000 a 2022)_Base Horária
 - Base 2: Dados Capacidade Instalada Geração
 
