@@ -21,3 +21,4 @@
 ### Para acessar Dashboard clique no link:
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzEyNmQ0YTYtMzU5My00NTA4LWJlODUtN2FlNzBiMjQxNzJjIiwidCI6IjdlN2JkNDcwLTExMDQtNDNjZi05MzRkLWU4M2UxZDE5ZjJkYSJ9)
 
+![Dshboard](https://github.com/arnaldorosentino/MBA_Data_Analytics_Project/assets/104164948/32ecaba2-f1b3-4634-b57b-d1c0c2da0c9d)
