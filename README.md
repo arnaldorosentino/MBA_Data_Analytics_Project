@@ -18,7 +18,7 @@
 - A taxa de crescimento de energia solar nos últimos anos ainda é exponencial? (Permite identificar o quão o mercado desse setor se manterá aquecido)
 - O nível de produção/consumo entre as regiões possui poucas diferenças ao longo do tempo? (Identificar o quão o Brasil encontra-se dependente de regiões específicas em relação à alguns tipos específicos de geração)
 
+![Dshboard](https://github.com/arnaldorosentino/MBA_Data_Analytics_Project/assets/104164948/32ecaba2-f1b3-4634-b57b-d1c0c2da0c9d)
+
 ### Para acessar Dashboard clique no link:
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzEyNmQ0YTYtMzU5My00NTA4LWJlODUtN2FlNzBiMjQxNzJjIiwidCI6IjdlN2JkNDcwLTExMDQtNDNjZi05MzRkLWU4M2UxZDE5ZjJkYSJ9)
-
-![Dshboard](https://github.com/arnaldorosentino/MBA_Data_Analytics_Project/assets/104164948/32ecaba2-f1b3-4634-b57b-d1c0c2da0c9d)
