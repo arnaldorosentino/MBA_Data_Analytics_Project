@@ -1,4 +1,4 @@
-# MBA_Data_Analytics_Project
+# Projeto Data Analytics
 
 ## MBA Data Science Flai Famesp
 
